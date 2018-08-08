@@ -2373,3 +2373,128 @@
 <item>2373. The name for a group of elves is not the fagot.</item>
 <item>2374. While Perform: Spoken word is an acceptable skill for a bard, Perform: Scat is not.</item>
 <item>2375. I will remember the whole acid spray ability before I cause the Company Chaplain to spit take.</item>
+<item>2376.  The Dwarven work ethic is not just \"Dig until we hit evil.\"</item>
+<item>2377.  When granted a wish use it to unsink the continent the immortals just destroyed.</item>
+<item>2378.  When making a wish granted by said immortals, I will leave out the words \"you incompetent pricks.\"</item>
+<item>2379.  Can\'t just use a wish to turn Strahd back to a human.</item>
+<item>2380.  No weaponizing the Talisman of Pure Good.</item>
+<item>2381.  Just because they can\'t be the target of raise dead spells doesn\'t mean elves have no soul.</item>
+<item>2382.  In the middle of a black ops can\'t organize a skeet shoot with office furniture.</item>
+<item>2383.  When challenging Death to a game, GMing Paranoia doesn\'t grant immortality.</item>
+<item>2384.  Raise Dead spells are not just for closers.</item>
+<item>2385.  Doesn\'t matter where you hit him, you can\'t set a bard to shuffle.</item>
+<item>2386.  There is no such thing as gnomeophobia.</item>
+<item>2387.  I will not give anybody an unreasonable fear of gnomes.</item>
+<item>2388.  No matter how high my damage resistance is, I can\'t name my dwarf Tanky McTankitytank.</item>
+<item>2389.  Despite the ridiculously short lifespans, 3rd level doesn\'t count as epic level for Atruaghins.</item>
+<item>2390.  The plan is not just let the villain beat on the dwarf until his arm gets tired.</item>
+<item>2391.  If I\'m the druid I can\'t put protestant down as my religion.</item>
+<item>2392.  The teleporting spiders attacking us are not just going through a phase.</item>
+<item>2393.  The natural enemy of the elf is not the common cold.</item>
+<item>2394.  No wasting wishes trying to bring ultravision back to the game.</item>
+<item>2395.  No picking the only form of travel the DM isn\'t familiar with.</item>
+<item>2396.  Traveling by sculling is nowhere near as cool as it sounds.</item>
+<item>2397.  Any character named Jim Katta is going to be taken from me and burned.</item>
+<item>2398.  The Fereldan rules of succession are not just \"Two men enter, one man leaves.\"</item>
+<item>2399.  When looking for a template to make a creature deadlier, \"Australian\" is not a legitimate choice.</item>
+<item>2400.  Just because I have the technology, doesn\'t mean I need to make him better.</item>
+<item>2401. Just because there are no rules for the bec de corbin, doesn\'t mean they don\'t exist.</item>
+<item>2402. No starting wars over the what\'s the best pole arm.</item>
+<item>2403. Can\'t give a shout out in a ransom note.</item>
+<item>2404. I can\'t bet Grazz\'t my soul in a showdown over a golden oboe.</item>
+<item>2405. Cleaning out all eleven of the Caves of Chaos in a single night is not what they mean by a dungeon crawl.</item>
+<item>2406. I can\'t save money on identify spells by just having random peasants do a blind taste test on these potions I found.</item>
+<item>2407. I can\'t save points on learning a new language by just learning only the profanity.</item>
+<item>2408. The advantage \"Friends in High Places\" cannot be represented by Johnny Walker Blue.</item>
+<item>2409. My wish cannot include the words \"and, additional, furthermore\" or any synonyms thereof.</item>
+<item>2410. Our posse can\'t resemble an 80\'s British glam band without an explanation.</item>
+<item>2411. The most dangerous weapon is not an Upeo Wa Macho and her construction equipment.</item>
+<item>2412. Yes, they are the perfect solution to all our deep one problems. No we can\'t have depth charges.</item>
+<item>2413. The barbarian can still berserk even if he hasn\'t had his morning coffee.</item>
+<item>2414. Offering to buy the hostage I just rescued a new arm is not sufficient enough of an apology.</item>
+<item>2415. Vargyr do not have the flaw Ancestral Enemy: United States Postal Service.</item>
+<item>2416. No convincing Rahasia he\'s just not that worth it.</item>
+<item>2417. Bargle the Infamous is not under a \"Protection from Continuity\" spell.</item>
+<item>2418. If the quest is to retrieve a magical genie bottle, no shaking it up before handing it back over.</item>
+<item>2419. I am required to tell the DM if the secret villain of the adventure is revealed on the back synopsis of the module screen.</item>
+<item>2420. You can\'t teach a parrot Power Word Kill.</item>
+<item>2421. There is no danger from explosive decompression in teleporting a duergar directly to the surface.</item>
+<item>2422. You better believe wearing a mu-mu to the coronation gets you searched for halflings.</item>
+<item>2423. If the party is black tie only, that doesn\'t mean just painted on the power armor.</item>
+<item>2424. Even if she is a soul sucking creature of unholy darkness, the cleric can\'t turn my ex-wife.</item>
+<item>2425. My necromancer is not in charge of inhuman resources.</item>
+<item>2426.  Cleaning out the dungeon doesn\'t involve dressing up like ghosts and trying to scare them out.</item>
+<item>2427.  The positive energy plane doesn\'t charge a cover charge.</item>
+<item>2428.  Not allowed to see if its possible to drown someone in a barrel filled with healing potions.</item>
+<item>2429.  Can\'t apply the holy avenger traits to siege weapons.</item>
+<item>2430.  The halfling wizard can\'t exploit the short rest rules by abusing the use of a papoose.</item>
+<item>2431.  A mandingo is not an Australian lycanthrope.</item>
+<item>2432.  If I have to guard the AV-8 during the black ops, no entertaining myself with the PA system, ejection seat or cluster munitions.</item>
+<item>2433.  I can\'t fill my yard with adventurer shaped statues to convince people it\'s a Medusa lair so they fight me with their eyes closed.</item>
+<item>2434.  When I\'m told a giant version of a creature is acceptable for my animal companion, that doesn\'t include the tortoise.</item>
+<item>2435.  Using dogs to keep late watch is fine, howler monkeys not so much.</item>
+<item>2436.  I will not be the sole reason Carnivale is canceled this year.</item>
+<item>2437.  If another player\'s character has all the symptoms of narcissistic personality disorder, a Cure Disease spell won\'t help.</item>
+<item>2438.  Not starting the adventure until we have exactly one elf in the party is not Tolkienism.</item>
+<item>2439.  Pointing out the gun will break the character\'s shoulder if fired in that position is not they meant as a trigger warning.</item>
+<item>2440.  Scots do not go up faster in direct sunlight faster than vampires.</item>
+<item>2441.  My Rogue Trader\'s crew will notice if she left out Savior Pods to make room for a bigger shoe closet.</item>
+<item>2442.  Firepower is not an appropriate substitute for the Fellowship stat.</item>
+<item>2443.  We are not sneaking into the Golden Throne disguised as a documentary crew.</item>
+<item>2444.  No, I really don\'t want to know the Profit Factor cost for insurance on my Grand Cruiser is.</item>
+<item>2445.  When facing the terrasque can\'t just gate in a black ball and sit back and watch.</item>
+<item>2446.  No complaining after the black ball takes out the terrasque when it starts doing donuts on the treasure pile.</item>
+<item>2447.  No threatening the aboleth with telling the Cajun restaurant his location.</item>
+<item>2448.  Acererak doesn\'t care about the Tomb of Horror\'s Yelp rating.</item>
+<item>2449.  Even if my musketeer just tore Richelieu from the French throne, I didn\'t just break the Cardinal rule.</item>
+<item>2450.  If the Storyteller gives me a drama die at about 70 mph and aimed at my face, it wasn\'t a compliment.</item>
+<item>2451.  Any swashbucker I\'m building is vetoed if I\'m watching the video to Adam Ant\'s Stand and Deliver.</item>
+<item>2452.  Befre I take advantage of the \"kids eat free\" offer my hin has to at least shave.</item>
+<item>2453.  Saving the queen from a fashion disaster is a good thing.  A fashion disaster not so much.</item>
+<item>2454.  My bard is now required to take a long rest between performances of Tarzan Boy.</item>
+<item>2455.  Can\'t name my aasimar bard Petra Stryper.</item>
+<item>2456.  Aasimar bards know more songs than just Disney tunes.</item>
+<item>2457.  My aasimar bard is not allowed to resemble any member of the Wiggles.</item>
+<item>2458.  Despite their ability for mimicry, I can\'t have all my tomes copies by Kenkus.</item>
+<item>2459.  No we can\'t steal the Death Star plans by just filling out all the appropriate paper work.</item>
+<item>2460.  A bard that plays like Bob Dillon is awesome.  A bard that talks like Bob Dillon not so much.</item>
+<item>2461.  There is no such thing as the Dwarvish Poetry Guild.</item>
+<item>2462.  My paladin does not have fourth, classified, oath known only to Omnicorp.</item>
+<item>2463.  No reminding the DM the rules for parasitic infection are on page 13 of the DMG.</item>
+<item>2464.  I can\'t ask the dragon any riddle with the answer ytterbium.</item>
+<item>2465.  No leaving the future god of strife tied to a tree just because he\'s annoying.</item>
+<item>2466.  If I\'m told to loop the feed for the video camera, they didn\'t mean with hard core porn.</item>
+<item>2467.  If we have to hide our weapons, no dumping the napalm into the fire sprinkler reserve tanks.</item>
+<item>2468.  No narrating the after battle report in Jacques Cousteau\'s voice.</item>
+<item>2469.  The AV-9 is for air support, not beer runs.</item>
+<item>2470.  If ordered to see if anybody is in a building, no setting it on fire and seeing if anybody runs out.</item>
+<item>2471.  Just because I min/maxed the heavy artillery skill doesn\'t mean I get to spend the entire adventure drinking cocoa and listening to the radio.</item>
+<item>2472.  The rest of the party would like to know why I\'m putting all my skill points into nuclear warhead.</item>
+<item>2473.  Even if the rules allow it, I don\'t get a sustained fire bonus for nuclear weapons.</item>
+<item>2474.  My spotter is forbidden from playing I Spy with the sniper again.</item>
+<item>2475.  When told to distract the enemy, they didn\'t mean with a called shot to their flamethrower.</item>
+<item>2476. Nobody else appreciates the irony of drowning someone in a bucket of potions of waterbreathing.</item>
+<item>2477. Can\'t waterboard a triton with just a dry towel.</item>
+<item>2478. Viking rites of succession typically don\'t have a swimsuit segment.</item>
+<item>2479. The can\'t be said about viking beauty pageants and their trial by combat segment.</item>
+<item>2480. No convincing the party to play characters that combined requires 15,000,000 xp before one of us reaches 1st level.</item>
+<item>2481. Kirk Fu is not a real martial art.</item>
+<item>2482. There is no heart genasi, so we\'re going to have to find another way to defeat Juiblex.</item>
+<item>2483. In the middle of a black ops can\'t call the target\'s tech support to get help breaking into their computer network.</item>
+<item>2484. \"Humor me\" is not an acceptable targeting parameter on the robotic sentry guns.</item>
+<item>2485. I will not cause the GM to break down because his new game is seriously flawed and unplayable until after character generation.</item>
+<item>2486. The sergeant\'s inquiry on why I need 10 rolls of duct tape for the black ops was not a rhetorical question.</item>
+<item>2487. There is no bag limit on orcs.</item>
+<item>2488. My untouchable Rogue Trader will stop getting cheap thrills by sneaking up on the astropath.</item>
+<item>2489. It is not a race to strip mine the planet.</item>
+<item>2490. No, the module is not fooling itself thinking I\'m just going to let the battleship power up and sail into deep space.</item>
+<item>2491. No abusing the falling rules in the 5th edition to achieve faster than light travel in just six seconds.</item>
+<item>2492. There is no place on the ship\'s bridge for my DJ booth.</item>
+<item>2493. No using repulsors to turn the villain into a beach ball for my crew to enjoy while I give my victory speech.</item>
+<item>2494. Gaining weapon mastery in the whip and earning a venomous snake as my animal companion are mutually exclusive achievements.</item>
+<item>2495. No using the teleportarium on the hive city to guarantee my ship\'s rave isn\'t a bust.</item>
+<item>2496. I will not spend profit factor to acquire any major league sports franchise.</item>
+<item>2497. Making a hat out of a bear\'s head is okay. A drow\'s head not so much.</item>
+<item>2498. Detect cliche 15\' radius is not a real spell.</item>
+<item>2499. No matter what the rules say, I can\'t catch an episode of Night Court between macrocannon shots.</item>
+<item>2500. Any argument with my ex will be done verbally in person. Not across the battlefield in semaphore.</item>
