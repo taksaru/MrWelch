@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">MrWelch</string>
-    <string name="action_settings">Settings</string>
-    <string name="prev_button">PREV</string>
-    <string name="rand_button">RANDOM</string>
-    <string name="next_button">NEXT</string>
-    <string name="default_text">What can\'t I do in an RPG?</string>
-    <string name="text_hint">1-2375</string>
-    <string name="text_size_option">Text Size</string>
+  <string name="app_name">MrWelch</string>
+  <string name="action_settings">Settings</string>
+  <string name="prev_button">PREV</string>
+  <string name="rand_button">RANDOM</string>
+  <string name="next_button">NEXT</string>
+  <string name="default_text">What can\'t I do in an RPG?</string>
+  <string name="text_hint">1-2500</string>
+  <string name="text_size_option">Text Size</string>
 </resources>
